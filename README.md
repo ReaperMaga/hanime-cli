@@ -14,10 +14,10 @@ go build
 go install
 ```
 
-## Philosophy
+## 📖 Philosophy
 
 Don't ask me why
 
-## Licensing
+## 📜 Licensing
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
