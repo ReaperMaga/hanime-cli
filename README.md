@@ -5,7 +5,7 @@
 
 </span>
 
-## 💣 Quick start
+## 💫 Installation
 
 ```
 git clone https://github.com/ReaperMaga/hanime-cli.git
@@ -13,6 +13,14 @@ go mod download
 go build
 go install
 ```
+
+## 💣 Usage
+
+```
+hanime -search [TEXT]
+```
+
+Replace `[TEXT]` with your desired searching text
 
 ## 📖 Philosophy
 
